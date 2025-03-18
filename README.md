@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiorgiaVitanza
-- 👀 I’m interested in Mathematics
+- 👀 I’m interested in Mathematics, computer science, Data Science, Machine Learning, Artificial Intelligence  
 - 🌱 I’m currently learning lots of things!
-- 💞️ I’m looking to collaborate on an European project
+- 💞️ I’m looking for a new job. 
 - 📫 How to reach me vitanzagiorgia2@gmail.com
 
 <!---
